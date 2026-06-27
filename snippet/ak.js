@@ -1,4 +1,4 @@
-const FIXED_UUID = '';// stallTCP v1.3 from https://t.me/Enkelte_notif/784
+const FIXED_UUID = 'cbba1f24-a27a-47ec-83d3-eb07ea02df7a';// stallTCP v1.3 from https://t.me/Enkelte_notif/784
 import { connect } from 'cloudflare:sockets';
 let 反代IP = '';
 let 启用SOCKS5反代 = null;
